@@ -1,4 +1,4 @@
-# SVM
+# Support Vector Machines
 This repo contains support vector machines implementation for linear and non-linear classification.
 
 ## What is done
